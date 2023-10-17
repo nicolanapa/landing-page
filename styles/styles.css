@@ -165,3 +165,58 @@ a:visited {
     align-items: flex-start;
     margin-top: -20px;
 }
+
+.call-action {
+    display: flex;
+    flex-direction: row;
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 40px 60px;
+    width: 1600px;
+    height: 60px;
+}
+
+.action-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    color: #F9FAF8;
+    
+}
+
+.action-left #action {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.action-left #signup {
+    font-size: 14px;
+    display: flex;
+    margin-top: -15px;
+    flex-direction: column;
+}
+
+.action-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    margin-left: 600px;
+}
+
+.action-right button {
+    width: 100px;
+    padding: 5px 20px;
+    font-weight: 600;
+    border-radius: 6px;
+    background-color: #3882f6;
+    border: 1px solid #E5E7EB;
+    color: #E5E7EB;
+}
+
+#white {
+    background-color: white;
+    display: flex;
+    margin: 100px;
+}
