@@ -145,4 +145,10 @@ a:visited {
     margin-left: -70px;
     flex-basis: 150px;
     flex-shrink: 1;
+    margin-bottom: 100px;
+}
+
+.container-quote {
+    background-color: #E5E7EB;
+    padding: 100px 250px;
 }
