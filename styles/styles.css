@@ -220,3 +220,15 @@ a:visited {
     display: flex;
     margin: 100px;
 }
+
+#blue {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
+
+#copyright {
+    padding: 20px;
+    color: #E5E7EB;
+    font-size: 12px;
+}
